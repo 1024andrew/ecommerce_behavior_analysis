@@ -356,11 +356,9 @@
 
   ### Tableau Public
 
-  전체 대시보드는 Tableau Public에서 확인할 수 있습니다.
-
-  [Tableau Public 대시보드 보기](TABLEAU_PUBLIC_URL)
-
-  > Tableau Public 게시 주소를 최종 확인한 뒤 `TABLEAU_PUBLIC_URL`을 실제 링크로 변경합니다.
+  - [구매 전환 퍼널 분석](https://public.tableau.com/app/profile/.36142407/viz/ecommerce_behavior_analysis/sheet2?publish=yes)
+  - [구매 전환 행동 분석](https://public.tableau.com/app/profile/.36142407/viz/ecommerce_behavior_analysis/sheet6?publish=yes)
+  - [재방문·재구매 행동 분석](https://public.tableau.com/app/profile/.36142407/viz/ecommerce_behavior_analysis/sheet9?publish=yes)
 
   ---
 
