@@ -1,0 +1,6 @@
+purchase_range,oct_buyers,repeat_buyers,repurchase_rate_pct
+1. 1 purchase,215691,43143.0,20.0
+2. 2-3 purchases,91443,27850.0,30.46
+3. 4-5 purchases,20439,8900.0,43.54
+4. 6-10 purchases,12938,6937.0,53.62
+5. 11+ purchases,6607,4456.0,67.44
